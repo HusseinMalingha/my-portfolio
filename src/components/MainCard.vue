@@ -190,10 +190,10 @@ a {
   }
   .bio {
     justify-content: center;
-    width: 80%;
+    width: 100%;
     background-color: #264ff5;
-    margin: 1rem auto;
-    padding: 0.5rem;
+    margin: 0 auto;
+    padding: 0.75rem;
     border-radius: 5px;
     text-align: center;
     font-size: 0.75rem;
@@ -210,7 +210,7 @@ a {
   .details {
     margin: 0 auto;
     padding: 0.5rem;
-    width: 80%;
+    width: 100%;
     border-bottom: #264ff5 solid;
     border-right: 0;
     border-radius: 5px;

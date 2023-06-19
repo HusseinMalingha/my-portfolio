@@ -94,7 +94,7 @@ img {
     border-radius: 2px;
   }
   img {
-    height: 14rem;
+    height: 19rem;
   }
 }
 </style>
