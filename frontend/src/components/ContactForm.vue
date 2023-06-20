@@ -86,12 +86,12 @@ input {
   input,
   textarea {
     margin: .5rem auto;
-    width: 20rem;
+    width: 18rem;
     padding: .5rem;
   }
   .btn {
     margin: 0.5rem auto;
-    width: 20rem;
+    width: 18rem;
   }
   .btn::after{
     background-color: #fff;
